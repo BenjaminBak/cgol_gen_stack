@@ -18,7 +18,7 @@ Implemented in [OpenFrameworks](https://openframeworks.cc/)
 
 - press 's' to go to voxel stacking mode, it displays all generations as stacked voxels
 - press 'l' to go to lines mode, it draws a line for each cell to its parents of the previous gen
-  In lines mode:
+In lines mode:
     - 'e' to export line structure as .obj file. File gets stored in bin/data directory
 
 In both 3d modes:
